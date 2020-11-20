@@ -1,0 +1,11 @@
+/Application/
+/Drivers/
+/Middlewares/
+/Debug/
+/.settings/
+/makefile
+/objects.list
+/objects.mk
+/sources.mk
+/*.xml
+/*.cfg
